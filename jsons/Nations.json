@@ -54,7 +54,7 @@
 		"innerColor": [83, 0, 208],
 		"favoredReligion": "Islam",
 		"uniqueName": "Arrival of Hapi",
-		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]","[+2 Culture, +2 Food] from [Flood plains] tiles [in all cities]"],
+		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]","[+2 Culture, +2 Food] from [Flood plains] tiles [in all cities]","Double quantity of [Wheat] produced"],
 		"cities": ["Alexandria","Memphis","Heliopolis","Elephantine","Thebes","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
