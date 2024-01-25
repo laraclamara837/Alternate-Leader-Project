@@ -29,5 +29,37 @@
 			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarahisar",
 			"Bitlis","Yalova"],
         "spyNames": ["Ibrahim", "Bayezid", "Sokollu", "Mahmut", "Uveys", "Roxelana", "Safiye", "Hafsa", "Kosem", "Nurbanu"]
+	},
+	{
+		"name": "Egypt",
+		"leaderName": "(Plotemaic) Cleopatra",
+		"adjective": ["Egyptian"],
+		"startBias": ["Avoid [Jungle]","Avoid [Forest]"],
+		"preferredVictoryType": "Cultural",
+
+                "startIntroPart1": "Blessed queen of the Nile, the glory of Isis shines upon you, oh great Cleopatra Philopator, ruler of the Ptolemaic Kingdom of Egypt. Appointed as joint ruler with your younger brother, you were faced with many difficult situations early in your reign, with the nation in turmoil, famine in abundance and floods in deficit. Eager to rule alone, you acted on these problems yourself, leading your brother to depose you despite your efforts. As Rome’s shadow fell across the Mediterranean, you led the once mighty kingdom of the Ptolemaic dynasty during a time of turmoil. An excellent diplomat, you secured the favour of the Romans and thus, ensured the survival of Egypt as an independent nation and your return to life as the soul monarch. Challenges to your throne were seen off time and time again by your legendary wisdom, striking deals to ensure your survival while the world around descended into civil war. Though you too succumbed to the ravages of this conflict, you will be remembered as Egypt’s last great ruler, one truly beloved by the people.",
+                "startIntroPart2": "Cleopatra, it is time for you to return to your land once more! Great Amun-Ra has shone upon you; he calls upon you to reunite your people, to begin a new epoch for Egypt. Will you see the lifeblood of your people, the Nile, bring unprecedented harvests yet again? Will you fend off all challengers for your throne? Will you build a civilisation that can stand the test of time?",
+
+		"declaringWar": "I have had enough with you. May Amun Ra guide us!",
+		"attacked": "Hah! Osiris will be pleased to welcome my enemies.",
+		"defeated": "Egypt is lost. If I can't embrace my love, I will embrace the asps.",
+		"introduction": "I am Isis reborn, I am the living Nile, I am Cleopatra and an ally, if you are worthy.",
+
+		"neutralHello": "Good day.",
+		"hateHello": "Oh, it's you.",
+
+		"tradeRequest": "Generous Egypt makes you this offer for you.",
+
+		"outerColor": [255, 252, 3],
+		"innerColor": [83, 0, 208],
+		"favoredReligion": "Islam",
+		"uniqueName": "Arrival of Hapi",
+		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]","[+2 Culture, +2 Food] from [Flood plains] tiles [in all cities]"],
+		"cities": ["Alexandria","Memphis","Heliopolis","Elephantine","Thebes","Pi-Ramesses","Giza","Byblos","Akhetaten",
+			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
+			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
+			   "Balat","Ellahun","Hawara","Dashur","Damanhur","Abusir","Herakleopolis","Akoris",
+			   "Benihasan","Badari","Hermopolis","Amrah","Koptos","Ombos","Naqada","Semna","Soleb"],
+        "spyNames": ["Refaat", "Heba", "Salah", "Ahmed", "Zakaria", "Bastet", "Ma'at", "Nebhet", "Tefenet", "Neuth"]
 	}
 ]
