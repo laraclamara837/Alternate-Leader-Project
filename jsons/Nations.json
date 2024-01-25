@@ -50,8 +50,8 @@
 
 		"tradeRequest": "Generous Egypt makes you this offer for you.",
 
-		"outerColor": [255, 252, 3],
-		"innerColor": [83, 0, 208],
+		"outerColor": [40,58,72],
+		"innerColor": [201,201,129],
 		"favoredReligion": "Islam",
 		"uniqueName": "Arrival of Hapi",
 		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]","[+2 Culture, +2 Food] from [Flood plains] tiles [in all cities]","Double quantity of [Wheat] produced"],
