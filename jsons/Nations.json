@@ -1,7 +1,7 @@
 [
 	{
 		"name": "The Ottomans",
-		"leaderName": "Suleiman I",
+		"leaderName": "(Magnificent) Suleiman",
 		"adjective": ["Ottoman"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
@@ -10,12 +10,12 @@
         "startIntroPart2": "Mighty Caliph, your people ask you to build again the Empire, to the level of power and glory it once achieved, and beyond! Will you revive the Ottoman golden age? Will your new empire shine through the ages of history?",
 
         "declaringWar": "Your continued insolence and failure to recognize our preeminence leads us to war.",
-		"attacked": "Good. The world shall witness the incontestable might of my armies and the glory of the Empire.",
-		"defeated": "Ruin! Ruin! Istanbul becomes Iram of the Pillars, remembered only by the melancholy poets.",
-		"introduction": "From the magnificence of Topkapi, the Ottoman nation greets you, stranger! I'm Suleiman, Kayser-I Rum, and I bestow upon you my welcome!",
-		"neutralHello": "Greetings!",
-		"hateHello": "What do you want?",
-		"tradeRequest": "Let us do business! Would you be interested?",
+	"attacked": "Good. The world shall witness the incontestable might of my armies and the glory of the Empire.",
+	"defeated": "Ruin! Ruin! Istanbul becomes Iram of the Pillars, remembered only by the melancholy poets.",
+	"introduction": "From the magnificence of Topkapi, the Ottoman nation greets you, stranger! I'm Suleiman, Kayser-I Rum, and I bestow upon you my welcome!",
+	"neutralHello": "Greetings!",
+	"hateHello": "What do you want?",
+	"tradeRequest": "Let us do business! Would you be interested?",
 
         "outerColor": [245,248,185],
         "innerColor": [18,84,30],
