@@ -113,7 +113,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Autocratix Of All Russia ",
 		"uniques": ["[+1 Production] from every [Strategic resource]","Double quantity of [Horses] produced","Double quantity of [Iron] produced","Double quantity of [Uranium] produced","[+2 Culture, +3 Production] from [Tundra] tiles [in all cities]","[+2 Culture, +2 Science] from each Trade Route","Allied City-States provide [Science] equal to [+60]% of what they produce for themselves"],
-		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
+		"cities": ["St. Petersburg","Moscow","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
 			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"],
