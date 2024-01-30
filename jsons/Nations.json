@@ -118,5 +118,28 @@
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
 			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"],
         "spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
-        }
+        },
+	{
+               "name": "Canada",
+		"leaderName": "Wilfrid Laurier",
+		"startBias": ["Tundra"],
+		"adjective": ["Canadian"],
+		
+		"declaringWar": "As an unstinting malignancy defines your relationship to Canada, we have no recourse than war.",
+		"attacked": "As we can reach no peaceful resolution with you, Canada must turn, with reluctance, to war.",
+		"defeated": "So ends our dream of a Canada that might have been. Our people are good-hearted. Rule with mercy,",
+		"introduction": "On behalf of the people of Canada, welcome. I am Prime Minister Laurier.",
+		"neutralHello": "Canada commends you.",
+		"hateHello": "Negotiating with you tests the limits of human patience.",
+		"tradeRequest": "The people of Canada present gifts!",
+		"outerColor": [249,249,249],
+		"innerColor": [205,0,1],
+		"uniqueName": "The Last Best West",
+		"uniques": ["[+3 Food, +2 Production] from every [Tundra]","May Build [Farm] Improvement In [Tundra] tiles","Allied City-States provide [Food] equal to [+60]% of what they produce for themselves"],
+		"cities": ["Ottawa","Toronto","Montréal","Quebec City","Hamilton","Winnipeg","Halifax","Saint John","Vancouver","Victoria",
+			"Kingston","Brantford","Windsor","Charlottetown","Calgary","Sherbrooke","Guelph","Peterborough","Valleyfield","Edmonton",
+			"Trois-Rivières","Stratford","Saint Catharines","Waterloo","Saint Hyacinthe","Saint John","Dawson City","Belleville","Chatham",
+			"Saskatoon","Moncton","Mississauga","Brockville","Regina","Red Deer","Brandon","Sault Sainte Marie","Lethbridge","Saint-Lin",
+			"Whitehorse","Thunder Bay"]
+	}
 ]
