@@ -166,8 +166,8 @@
 		"hateHello": "oh, You really should start paying attention to what's going on around you.",
 		"tradeRequest": "I have sent you a trade delegation with all of the customary gifts: herbs, olives, various cheeses, and baguettes to eat them with, of course.",
 
-        "outerColor": [249,249,249],
-        "innerColor": [134,114,2],
+        "outerColor": [134,114,2],
+        "innerColor": [249,249,249],
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Cour des dames d'attente",
