@@ -5,6 +5,7 @@
 		"adjective": ["Ottoman"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
+		"personality": "(Magnificent) Suleiman",
 
         "startIntroPart1": "O Great Sultan Suleiman, may the God bless you! You are revered for your power, wealth and generosity, and you truly deserves to be called the 'Magnificent'! The Ottoman Empire was born in Bithynia, starting as a small country in Eastern Anatolia in 12th century, then expanded to west into Anatolia. Over the next century, your people vanquished the empire of Byzantium, annexing Turkey and the Balkans, and smartly assimilating all wonders and knowledge of the Byzantine civilization. In the mid 15th century, the Ottomans added Constantinople to their empire, establishing a strategic link between Europe and the Middle East. The Empire would continue to expand for centuries reaching North Africa, Middle East and Eastern Europe at its height, but brutally disappeared in the chaos of the first world war, in early 20th century.",
         "startIntroPart2": "Mighty Caliph, your people ask you to build again the Empire, to the level of power and glory it once achieved, and beyond! Will you revive the Ottoman golden age? Will your new empire shine through the ages of history?",
@@ -28,7 +29,7 @@
 			"Mersin","Antalya","Zonguldak","Denizli","Ordu","Muğla","Eskişehir","Inebolu","Sinop","Adana","Artvin",
 			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarahisar",
 			"Bitlis","Yalova"],
-                "spyNames": ["Ibrahim", "Bayezid", "Sokollu", "Mahmut", "Uveys", "Roxelana", "Safiye", "Hafsa", "Kosem", "Nurbanu"]
+                "spyNames": ["Ibrahim", "Bayezid", "Sokollu", "Mahmut", "Uveys", "Roxelana", "Safiye", "Hafsa", "Kosem", "Nurbanu"],
 	},
 	{
 		"name": "Egypt",
@@ -36,6 +37,7 @@
 		"adjective": ["Egyptian"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Cultural",
+		"personality": "(Plotemaic) Cleopatra",
 
                 "startIntroPart1": "Blessed queen of the Nile, the glory of Isis shines upon you, oh great Cleopatra Philopator, ruler of the Ptolemaic Kingdom of Egypt. Appointed as joint ruler with your younger brother, you were faced with many difficult situations early in your reign, with the nation in turmoil, famine in abundance and floods in deficit. Eager to rule alone, you acted on these problems yourself, leading your brother to depose you despite your efforts. As Rome’s shadow fell across the Mediterranean, you led the once mighty kingdom of the Ptolemaic dynasty during a time of turmoil. An excellent diplomat, you secured the favour of the Romans and thus, ensured the survival of Egypt as an independent nation and your return to life as the soul monarch. Challenges to your throne were seen off time and time again by your legendary wisdom, striking deals to ensure your survival while the world around descended into civil war. Though you too succumbed to the ravages of this conflict, you will be remembered as Egypt’s last great ruler, one truly beloved by the people.",
                 "startIntroPart2": "Cleopatra, it is time for you to return to your land once more! Great Amun-Ra has shone upon you; he calls upon you to reunite your people, to begin a new epoch for Egypt. Will you see the lifeblood of your people, the Nile, bring unprecedented harvests yet again? Will you fend off all challengers for your throne? Will you build a civilisation that can stand the test of time?",
@@ -60,7 +62,7 @@
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
 			   "Balat","Ellahun","Hawara","Dashur","Damanhur","Abusir","Herakleopolis","Akoris",
 			   "Benihasan","Badari","Hermopolis","Amrah","Koptos","Ombos","Naqada","Semna","Soleb"],
-                "spyNames": ["Refaat", "Heba", "Salah", "Ahmed", "Zakaria", "Bastet", "Ma'at", "Nebhet", "Tefenet", "Neuth"]
+                "spyNames": ["Refaat", "Heba", "Salah", "Antonini", "Zakaria", "Bastet", "Ma'at", "Nebhet", "Tefenet", "Neuth"],
 	},
 	{
 		"name": "England",
@@ -68,6 +70,7 @@
 		"adjective": ["English"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
+		"personality": "(Golden Age) Elizabeth",
 
                 "startIntroPart1": "Long live to Your Highness, Queen Elizabeth Gloriana, leader and protector of the glorious England! Through history, enduring many invasions, England strengthened its will, playing smartly with diplomacy, cunning, and military power, to eventually rose as one of the most dominant Empires the world has ever known. Their matchless navy, brilliant scientists and artists, and powerful merchants, have shaped the known world for centuries.",
                 "startIntroPart2": "Queen Elizabeth, will England cast once more its brightness upon all lands and seas of the world? Will your new empire shine through the ages of history?",
@@ -88,7 +91,7 @@
 			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
 			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
 			"Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester","Hull"],
-                "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
+                "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"],
 	},
 	{
 		"name": "Russia",
@@ -96,6 +99,7 @@
 		"adjective": ["Russian"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
+		"personality": "(Golden Age) Catherine",
 
 
         "startIntroPart1": "Hail to Imperial Majesty Catherine, Empress of all Russians. Living in the largest country in the world, from the Pacific Ocean in the east to the Baltic Sea in the west, your people endured wars, droughts, and many disasters, imbuing the Russian society with heroism and tenacity, and producing artists and scientists among the best in the world. Russia is a powerful empire which rightfully claims its place in the world concert of superpowers.",
@@ -117,13 +121,14 @@
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
 			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"],
-        "spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
+        "spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"],
         },
 	{
                "name": "Canada",
 		"leaderName": "Wilfrid Laurier",
 		"startBias": ["Tundra"],
 		"adjective": ["Canadian"],
+		"personality": "Wilfrid Laurier",
 		
 		"declaringWar": "As an unstinting malignancy defines your relationship to Canada, we have no recourse than war.",
 		"attacked": "As we can reach no peaceful resolution with you, Canada must turn, with reluctance, to war.",
@@ -141,6 +146,36 @@
 			"Trois-Rivières","Stratford","Saint Catharines","Waterloo","Saint Hyacinthe","Saint John","Dawson City","Belleville","Chatham",
 			"Saskatoon","Moncton","Mississauga","Brockville","Regina","Red Deer","Brandon","Sault Sainte Marie","Lethbridge","Saint-Lin",
 			"Whitehorse","Thunder Bay"]
-		"spyNames": ["Benjamin", "Chloe", "Lucas", "Amelia", "James", "Logan", "Greyson", "Henry", "Natasha", "Elizabeth"]
+		"spyNames": ["Benjamin", "Chloé", "Lucas", "Amelia", "James", "Logan", "Greyson", "Henry", "Natasha", "Elizabeth"],
+	},
+	{
+		"name": "France",
+		"leaderName": "Catherine de Medici",
+		"adjective": ["French"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Catherine de Medici",
+
+        "startIntroPart1": "Vive Napoleon I, First Consul and Emperor of France! After the glorious Revolution which suppressed the centuries-old monarchy, the French nation stood at the heart of Europe as a Republic, and intended to export its ideals to the entire European continent, either by diplomacy or war. The French Capital Paris was more than ever the world center of Culture, Arts, and Letters. With its Great Army, reputed as one of the greatest in the History, France fought gloriously all surrounding enemies, but eventually fell against the coalition of other European powers.",
+        "startIntroPart2": "Napoleon Bonaparte, ruler of the French people, will you rebuild the Empire to take revenge on your foes, and make again of its Capital the City of Lights? Will your new empire shine through the ages of history?",
+
+        "declaringWar": "You're disturbing us, prepare for war.",
+		"attacked": "You've fallen into my trap. I'll bury you.",
+		"defeated": "I congratulate you for your victory.",
+		"introduction": "Welcome. I'm Napoleon, of France; the smartest military man in world history.",
+		"neutralHello": "Hello.",
+		"hateHello": "It's you.",
+		"tradeRequest": "France offers you this exceptional proposition.",
+
+        "outerColor": [ 38, 98, 255],
+        "innerColor": [239,236,148],
+
+		"favoredReligion": "Christianity",
+		"uniqueName": "Cour des dames d'attente",
+		"uniques": ["Gain an extra spy <upon entering the [Renaissance era]","Gain an extra spy <upon entering the [Industrial era]","Gain an extra spy <upon entering the [Modern era]"],
+		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
+			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
+			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
+			"Le Havre","Lourdes","Cannes","Aix-En-Provence","La Rochelle","Bourges","Calais"],
+        "spyNames": ["Jeannette", "Marie", "Adeline", "Béatrice", "Françoise", "Henriette", "Isabelle", "Gabrielle", "Yolande", "Thérèse"]
 	}
 ]
