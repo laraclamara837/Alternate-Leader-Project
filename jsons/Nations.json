@@ -172,7 +172,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Cour des dames d'attente",
-		"uniques": ["Gain an extra spy <upon entering the [Renaissance era]","Gain an extra spy <upon entering the [Industrial era]","Gain an extra spy <upon entering the [Modern era]","[+2 Culture] from every [Luxury resource]","[+1 Gold, +1 Culture] from every [River] tiles [in all cities]"],
+		"uniques": ["Gain an extra spy <upon entering the [Renaissance era]","Gain an extra spy <upon entering the [Industrial era]","Gain an extra spy <upon entering the [Modern era]","[+2 Culture] from every [Luxury resource]","[+1 Gold, +1 Culture] from [River] tiles [in all cities]","[+2 Culture] from [{improved} {River}] tiles [in capital]"],
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
