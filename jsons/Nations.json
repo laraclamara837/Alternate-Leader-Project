@@ -205,7 +205,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Solomonic dynasty",
-		"uniques": ["[+50]% Strength <when fighting with units from a Civilization with different religion from you>","May buy [Civilian] units with [Faith] for [3] times their normal Production cost","[+2 Faith] in [Palace] <after adopting [Mandate Of Heaven]>","[+2 Faith] from every [Holy site] <in [Hill] tiles>"],
+		"uniques": ["[+50]% Strength <when fighting with units from a Civilization with different religion from you>","May buy [Worker] units with [Faith] for [3] times their normal Production cost","May buy [Settler] units with [Faith] for [3] times their normal Production cost","[+2 Faith] in [Palace] <after adopting [Mandate Of Heaven]>","[+2 Faith] from every [Holy site] <in [Hill] tiles>"],
 		"cities": ["Addis Ababa","Harar","Adwa","Lalibela","Gondar","Axum","Dire Dawa","Bahir Dar","Adama",
 			"Mek'ele","Awasa","Jimma","Jijiga","Dessie","Debre Berhan","Shashamane","Debre Zeyit","Sodo","Hosaena",
 			"Nekemte","Asella","Dila","Adigrat","Debre Markos","Kombolcha","Debre Tabor","Sebeta",
