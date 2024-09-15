@@ -215,8 +215,8 @@
 	{
 		"name": "Korea",
 		"leaderName": "Seondeok",
-		"adjective": ["Korean"],
-		"startBias": ["Coast","Hill"],
+		"adjective": ["Korean","Hill"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Seondeok",
 
@@ -241,5 +241,5 @@
 			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
 			"Rason","Seoul","Chungju","Sacheon","Gimje","Anju"],
         "spyNames": ["Kim", "Park", "Han", "Na", "Kong", "Yu", "Ahn", "Da", "Eun"]
-    }
+	}
 ]
