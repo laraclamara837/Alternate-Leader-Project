@@ -220,8 +220,8 @@
 		"preferredVictoryType": "Scientific",
 		"personality": "Seondeok",
 
-        "startIntroPart1": "O Great Sultan Suleiman, may the God bless you! You are revered for your power, wealth and generosity, and you truly deserves to be called the 'Magnificent'! The Ottoman Empire was born in Bithynia, starting as a small country in Eastern Anatolia in 12th century, then expanded to west into Anatolia. Over the next century, your people vanquished the empire of Byzantium, annexing Turkey and the Balkans, and smartly assimilating all wonders and knowledge of the Byzantine civilization. In the mid 15th century, the Ottomans added Constantinople to their empire, establishing a strategic link between Europe and the Middle East. The Empire would continue to expand for centuries reaching North Africa, Middle East and Eastern Europe at its height, but brutally disappeared in the chaos of the first world war, in early 20th century.",
-        "startIntroPart2": "Mighty Caliph, your people ask you to build again the Empire, to the level of power and glory it once achieved, and beyond! Will you revive the Ottoman golden age? Will your new empire shine through the ages of history?",
+        "startIntroPart1": "The stars reveal good omens for you and your people, Queen Seondeok of Silla. With farsightedness and peerless acumen you led your people through the turbulent times that consumed the Korean peninsula during the 6th century AD. As Silla's first-ever queen regnant, you would ensure the her eventual preeminence as the ruler of the land of the morning calm through an alliance with the Tang dynasty. You would also promote an efflorescence of art, learning, and religion, patronizing the construction of many temples and pagodas, as well as that of Cheomseongdae, the tower of the moon and stars, the oldest observatory in the Orient.",
+        "startIntroPart2": "Queen Seondeok, the stars reveal you lead Korea to greatness. Build Academys to educate your people, for the secrets of the world are theirs to uncover. For those who would steal your knowledge, treat them to a rain of rocket propelled fire from your Hwach'a. Reach for the heavens, shrewd queen, and your people will reach with you and stand the test of time.",
 
         "declaringWar": "While other strive to reach the sixth realm, you dig your nails deeper into the first, and I don't have any intention to keeping you on the fifth. prepare yourself for the impending.",
 	"attacked": "The destruction of you and your people will be swift, for I have proclaimed and foreseen.",
@@ -231,12 +231,12 @@
 	"hateHello": "Your arrival is unwelcomed, so let's be fast and be done with it.",
 	"tradeRequest": "The mastery of you and your people makes me and my people envy, let us reach an agreement.",
 
-        "outerColor": [20, 108, 48],
-        "innerColor": [229, 117, 116],
+        "outerColor": [141, 42, 60],
+        "innerColor": [125, 190, 175],
 
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Hwarang, Cheomseongdae",
-		"uniques": ["[+2 Science, +2 Culture, +2 Faith] [in all cities] <after discovering [Astronomy]>","[+2 Science] from every [Academy] <with [1] to [6] neighboring [Farm] tiles>","[+2 Science] from every [Academy] <with [1] to [6] neighboring [Mine] tiles>","Receive a tech boost when scientific buildings/wonders are built in capital"],
+		"uniques": ["[+2 Science, +2 Culture, +2 Faith] [in all cities] <after discovering [Astronomy]>","[+2 Science, 2+ Faith] from every [Academy] <with [1] to [6] neighboring [Farm] tiles>","[+2 Science, +2 Culture] from every [Academy] <with [1] to [6] neighboring [Mine] tiles>","Receive a tech boost when scientific buildings/wonders are built in capital"],
 		"cities": ["Seorabeol","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
 			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
 			"Rason","Seoul","Chungju","Sacheon","Gimje","Anju"],
