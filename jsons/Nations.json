@@ -234,14 +234,13 @@
         "outerColor": [20, 108, 48],
         "innerColor": [229, 117, 116],
 
-		"favoredReligion": "Islam",
-		"uniqueName": "The Magnificence",
+		"favoredReligion": "Buddhism",
+		"uniqueName": "Hwarang",
 		"uniques": ["[-66]% maintenance costs <for [Water] units>",
 			"[+20]% Golden Age length","[+15]% [Science] and [+15]% [Culture] [in all cities] <during a Golden age>","[All] [Military] Units Receive [+4]% More [Strength] When Fighting <during a Golden age>"],
-		"cities": ["Seorabeol","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyarbakır","Izmir","Kayseri","Malatya",
-			"Mersin","Antalya","Zonguldak","Denizli","Ordu","Muğla","Eskişehir","Inebolu","Sinop","Adana","Artvin",
-			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarahisar",
-			"Bitlis","Yalova"],
-                "spyNames": ["Ibrahim", "Bayezid", "Sokollu", "Mahmut", "Uveys", "Roxelana", "Safiye", "Hafsa", "Kosem", "Nurbanu"],
-	}
+		"cities": ["Seorabeol","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
+			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
+			"Rason","Seoul","Chungju","Sacheon","Gimje","Anju"],
+        "spyNames": ["Kim", "Park", "Han", "Na", "Kong", "Yu", "Ahn", "Da", "Eun"]
+    }
 ]
