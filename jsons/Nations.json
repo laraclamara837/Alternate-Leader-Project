@@ -18,8 +18,8 @@
 	"hateHello": "What do you want?",
 	"tradeRequest": "Let us do business! Would you be interested?",
 
-        "outerColor": [20,108,48],
-        "innerColor": [229,117,116],
+        "outerColor": [20, 108, 48],
+        "innerColor": [229, 117, 116],
 
 		"favoredReligion": "Islam",
 		"uniqueName": "The Magnificence",
@@ -52,8 +52,8 @@
 
 		"tradeRequest": "Generous Egypt makes you this offer for you.",
 
-		"outerColor": [40,58,72],
-		"innerColor": [201,201,129],
+		"outerColor": [40, 58, 72],
+		"innerColor": [201, 201, 129],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Arrival Of Hapi",
 		"uniques": ["[+30]% Production when constructing [All] wonders [in all cities]","[+3 Culture, +2 Food] from [Flood plains] tiles [in all cities]","Double quantity of [Wheat] produced"],
@@ -137,8 +137,8 @@
 		"neutralHello": "Canada commends you.",
 		"hateHello": "Negotiating with you tests the limits of an human patience, Anyway What Can I Help You With?",
 		"tradeRequest": "The people of Canada present gifts!",
-		"outerColor": [249,249,249],
-		"innerColor": [205,0,1],
+		"outerColor": [249, 249, 249],
+		"innerColor": [205, 0, 1],
 		"uniqueName": "The Last Best West",
 		"uniques": ["[+3 Food, +2 Production] from every [Tundra]","May Build [Farm] Improvement In [Tundra] tiles","Allied City-States provide [Food] equal to [+60]% of what they produce for themselves","Gain an extra spy <upon entering the [Industrial era]>"],
 		"cities": ["Ottawa","Toronto","Montréal","Quebec City","Hamilton","Winnipeg","Halifax","Saint John","Vancouver","Victoria",
@@ -167,8 +167,8 @@
 		"hateHello": "oh, You really should start paying attention to what's going on around you.",
 		"tradeRequest": "I have sent you a trade delegation with all of the customary gifts: herbs, olives, various cheeses, and baguettes to eat them with, of course.",
 
-        "outerColor": [249,249,249],
-        "innerColor": [134,114,2],
+        "outerColor": [249, 249, 249],
+        "innerColor": [134, 114, 2],
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Cour des dames d'attente",
@@ -185,27 +185,27 @@
 		"adjective": ["ethiopian"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Cultural",
-		"personality": "Haile Selassie",
+		"personality": "Zara Yaqob",
 
-        "startIntroPart1": "May God bless you, wise and righteous Emperor of Ethiopia, Haile Selassie. As one of Ethiopia's greatest rulers and a spiritual leader of the Rastafarian movement, your good influence on diplomacy and political cooperation are praised throughout the world. You created Ethiopia's first written constitution, and favorized democracy for years to come, your great wisdom making Ethiopia enter as a charter member in the United Nations. Always aiming to reform and modernize your nation, you changed Ethiopian destiny for the best.",
-        "startIntroPart2": "Revered King, your knowledge and intelligence are required once again to protect your people from many threats in the world. Will you secure peace and stability, with benevolence and authority, in the radiance of the Kebra Nagast? Will your new empire shine through the ages of history?",
+        "startIntroPart1": "May God bless you, wise and righteous Emperor of Ethiopia, Zara yaqob. As The Greatest Ruler of Ethiopia, the world has ever seen and a spiritual leader to Your People the Ethiopian, your Determination to rule your people, Your love for your god and for them is shining endlessly as the lord is. You flourished the Ge,ez literature in your reign, and favorized Your God Amongst all Other Pagan Practice for years to come and diminished it, your great wisdom and Determination You Lead Ethiopia to Reach Its Height Of Golden Age. Always aiming towards Christ, and Improving your nation, You Make Every Ethiopian Proud to have you as The Emperor.",
+        "startIntroPart2": "It is the Lord's will that guides your hand, plous Emperor Zara Yaqob. Make your empire a bastion for the faithful, building great churches across the land, and watch as your people's faith brings them to glory. Rule wisely, and let Ethiopia be a Mount of Light, shining as a beacon for all the world and stand the test of time.",
 
-        "declaringWar": "I have tried all other avenues, but yet you persist in this madness. I hope, for your sake, your end is swift.",
-		"attacked": "It is silence that allows evil to triumph. We will not stand mute and allow you to continue on this mad quest unchecked.",
-		"defeated": "God and history will remember your actions this day. I hope you are ready for your impending judgment.",
-		"introduction": "A thousand welcomes to our fair nation. I am Selassie, the Ras Tafari Makonnen and Emperor of Ethiopia, your humble servant.",
-		"tradeRequest": "I request that you consider this offer between our two peoples. I believe it will do us both good.",
+        "declaringWar": "My patience is wearing thin. May the lord have mercy on me for about what I'm about to do with you.",
+		"attacked": "May the lord stand with us and lead us through this war.",
+		"defeated": "God judgement is the only one that's mattered, may he mercy on me and you.",
+		"introduction": "As a humble servant of the lord, I must introduce myself as zara yaqob, the emperor to the ethiopian.",
+		"tradeRequest": "I request that you consider this offer between our two peoples. I believe it will do us both good in the world and in the heaven to come.",
 
-		"neutralHello": "Welcome.",
+		"neutralHello": "Welcome, how can I help you?.",
 
-		"hateHello": "What do you want?",
+		"hateHello": "Hmm, you are welcomed graciously",
 
         "outerColor": [18, 66, 22],
-        "innerColor": [255, 56, 56],
+        "innerColor": [231, 183, 59],
 
 		"favoredReligion": "Christianity",
-		"uniqueName": "Spirit of Adwa",
-		"uniques": ["[+10]% Strength <when fighting units from a Civilization with more Cities than you>","May buy [Civilian] units with [Faith] for [3] times their normal Production cost","[+2 Faith] in [Palace] ","[+2 Faith] from every [Holy site] <in [Hill] tiles>"],
+		"uniqueName": "Solomonic dynasty",
+		"uniques": ["[+50]% Strength <when fighting with units from a Civilization with different religion from you>","May buy [Civilian] units with [Faith] for [3] times their normal Production cost","[+2 Faith] in [Palace] <after adopting [Mandate Of Heaven]>","[+2 Faith] from every [Holy site] <in [Hill] tiles>"],
 		"cities": ["Addis Ababa","Harar","Adwa","Lalibela","Gondar","Axum","Dire Dawa","Bahir Dar","Adama",
 			"Mek'ele","Awasa","Jimma","Jijiga","Dessie","Debre Berhan","Shashamane","Debre Zeyit","Sodo","Hosaena",
 			"Nekemte","Asella","Dila","Adigrat","Debre Markos","Kombolcha","Debre Tabor","Sebeta",
