@@ -205,7 +205,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Spirit of Adwa",
-		"uniques": ["[+10]% Strength <when fighting units from a Civilization with more Cities than you>","May buy [Civilian] units with [Faith] for [3] times their normal Production cost",""],
+		"uniques": ["[+10]% Strength <when fighting units from a Civilization with more Cities than you>","May buy [Civilian] units with [Faith] for [3] times their normal Production cost","[+2 Faith] in [Palace] ","[+2 Faith] from every [Holy site] <in [Hill] tiles>"],
 		"cities": ["Addis Ababa","Harar","Adwa","Lalibela","Gondar","Axum","Dire Dawa","Bahir Dar","Adama",
 			"Mek'ele","Awasa","Jimma","Jijiga","Dessie","Debre Berhan","Shashamane","Debre Zeyit","Sodo","Hosaena",
 			"Nekemte","Asella","Dila","Adigrat","Debre Markos","Kombolcha","Debre Tabor","Sebeta",
