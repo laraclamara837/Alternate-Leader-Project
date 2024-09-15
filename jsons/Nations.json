@@ -215,8 +215,8 @@
 	{
 		"name": "Korea",
 		"leaderName": "Seondeok",
-		"adjective": ["Korean","Hill"],
-		"startBias": ["Coast"],
+		"adjective": ["Korean"],
+		"startBias": ["Coast","Hill"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Seondeok",
 
