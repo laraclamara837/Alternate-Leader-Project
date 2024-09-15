@@ -24,7 +24,7 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "The Magnificence",
 		"uniques": ["[-66]% maintenance costs <for [Water] units>",
-			"[+20]% Golden Age length","During a Golden Age Produce [+15]% [Science] and [+15]% [Culture] [in all cities]","[All] [Military] Units Receive [+4]% More [Strength] When Fighting <During a Golden age>"],
+			"[+20]% Golden Age length","<during a Golden Age> Produce [+15]% [Science] and [+15]% [Culture] [in all cities]","[All] [Military] Units Receive [+4]% More [Strength] When Fighting <during a Golden age>"],
 		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyarbakır","Izmir","Kayseri","Malatya",
 			"Mersin","Antalya","Zonguldak","Denizli","Ordu","Muğla","Eskişehir","Inebolu","Sinop","Adana","Artvin",
 			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarahisar",
