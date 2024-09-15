@@ -236,7 +236,7 @@
 
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Hwarang, Cheomseongdae",
-		"uniques": ["[+2 Science, +2 Culture, +2 Faith] [in all cities] <after discovering [Astronomy]>","[+2 Science, 2+ Faith] from every [Academy] <with [1] to [6] neighboring [Farm] tiles>","[+2 Science, +2 Culture] from every [Academy] <with [1] to [6] neighboring [Mine] tiles>","Receive a tech boost when scientific buildings/wonders are built in capital"],
+		"uniques": ["[+2 Science, +2 Culture, +2 Faith] [in all cities] <after discovering [Astronomy]>","[+2 Science, +2 Faith] from every [Academy] <with [1] to [6] neighboring [Farm] tiles>","[+2 Science, +2 Culture] from every [Academy] <with [1] to [6] neighboring [Mine] tiles>","Receive a tech boost when scientific buildings/wonders are built in capital"],
 		"cities": ["Seorabeol","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
 			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
 			"Rason","Seoul","Chungju","Sacheon","Gimje","Anju"],
