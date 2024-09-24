@@ -35,7 +35,7 @@
 		"name": "Egypt",
 		"leaderName": "(Plotemaic) Cleopatra",
 		"adjective": ["Egyptian"],
-		"startBias": ["Desert"],
+		"startBias": ["Desert","Flood plains"],
 		"preferredVictoryType": "Cultural",
 		"personality": "(Plotemaic) Cleopatra",
 
@@ -150,11 +150,11 @@
 	},
 	{
 		"name": "France",
-		"leaderName": "Catherine de Medici",
+		"leaderName": "Louis XIV",
 		"adjective": ["French"],
 		"startBias": ["River"],
 		"preferredVictoryType": "Cultural",
-		"personality": "Catherine de Medici",
+		"personality": "Louis XIV",
 
         "startIntroPart1": "... You've been hiding your royal highness, or should I say your majesty, as you stand behind the curtains letting your children sought the throne of france, the People of France know who has the real unchallenged Power, It falls to you, Catherine de Medici, to use your gifts of knowledge and of the arts to unite your people. Steer carefully through these troubled times, Queen Mother of France. You will build great wonders, drawing visitors from all corners of the earth. With your keen awareness of all things, both those seen and those hidden in the shadows, your empire will certainly stand the test of time.",
         "startIntroPart2": "Catherine de medici, the queen mother of france, it is for you to decide whether or not you shall hold on onto power, but can the unchallenged serpent queen do so, or shall you fall and rot away with time?",
@@ -171,8 +171,8 @@
         "innerColor": [134, 114, 2],
 
 		"favoredReligion": "Christianity",
-		"uniqueName": "Cour des dames d'attente",
-		"uniques": ["Gain an extra spy <upon entering the [Renaissance era]","Gain an extra spy <upon entering the [Industrial era]","Gain an extra spy <upon entering the [Modern era]","[+2 Culture] from every [Luxury resource]","[+2 Culture] from [{improved} {River}] tiles [in capital]","[+1 Gold, +1 Culture] from [River] tiles [in all cities]"],
+		"uniqueName": "The Sun King",
+		"uniques": ["[+3 Culture, +3 Gold] from every [Wonder]","[+3 Culture] from every [Luxury resource]","[Great Artist] is earned [90]% faster <during We Love The King Day>","[100]% [Culture] [in capital] <during We Love The King Day>","Earn [80]% of killed [Military] unit's [Strength] as [Happiness]","[+100]% [Happiness] from all [Culture] buildings [in all cities]","May buy [Culture] buildings with [Gold] [in all cities]"],
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
@@ -204,8 +204,8 @@
         "innerColor": [231, 183, 59],
 
 		"favoredReligion": "Christianity",
-		"uniqueName": "Solomonic dynasty",
-		"uniques": ["[+50]% Strength <when fighting with units from a Civilization with different religion from you>","May buy [Worker] units with [Faith] for [3] times their normal Production cost","May buy [Settler] units with [Faith] for [3] times their normal Production cost","[+2 Faith] in [Palace] <after adopting [Mandate Of Heaven]>","[+2 Faith] from every [Holy site] <in [Hill] tiles>"],
+		"uniqueName": "Solomonic Dynasty",
+		"uniques": ["[+50]% Strength <when fighting with units from a Civilization with different religion from you>","May buy [Worker] units with [Faith] for [3] times their normal Production cost","May buy [Settler] units with [Faith] for [3] times their normal Production cost","[+2 Faith] [in capital] <after adopting [Mandate Of Heaven]>","[+2 Faith] from every [Holy site] <in [Hill] tiles>"],
 		"cities": ["Addis Ababa","Harar","Adwa","Lalibela","Gondar","Axum","Dire Dawa","Bahir Dar","Adama",
 			"Mek'ele","Awasa","Jimma","Jijiga","Dessie","Debre Berhan","Shashamane","Debre Zeyit","Sodo","Hosaena",
 			"Nekemte","Asella","Dila","Adigrat","Debre Markos","Kombolcha","Debre Tabor","Sebeta",
