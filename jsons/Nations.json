@@ -156,13 +156,13 @@
 		"preferredVictoryType": "Cultural",
 		"personality": "Louis XIV",
 
-        "startIntroPart1": "... You've been hiding your royal highness, or should I say your majesty, as you stand behind the curtains letting your children sought the throne of france, the People of France know who has the real unchallenged Power, It falls to you, Catherine de Medici, to use your gifts of knowledge and of the arts to unite your people. Steer carefully through these troubled times, Queen Mother of France. You will build great wonders, drawing visitors from all corners of the earth. With your keen awareness of all things, both those seen and those hidden in the shadows, your empire will certainly stand the test of time.",
-        "startIntroPart2": "Catherine de medici, the queen mother of france, it is for you to decide whether or not you shall hold on onto power, but can the unchallenged serpent queen do so, or shall you fall and rot away with time?",
+        "startIntroPart1": "Peoples the world over rejoice, for never before have they seen such a glorious and finely dressed monarch as you, O' Louis XIV, the Sun King of France. At five, you inherited the French throne - the most ancient and noble of the thrones of Europe - and for seventy-two years a modern state would be your design. Though a man of indulgence, your legal and cultural codes would form the basis of both Napoleon's Empire and the French Republics to come, and you would ultimately leave in your wake the most glorious century with which France has ever been blessed.",
+        "startIntroPart2": "Your great majesty, the Kingdom of France is bereft of the glory that had once adorned it, and your people grieve for ages past. Can you restore the refinement and power of the Bourbon throne? Can you, with guile and excellence, restore the treasured crown of the divine kings? Can you build a civilization that can stand the test of time?",
 
         "declaringWar": "Masquerading as friends was kind of fun, wasn't it? Unfortunately it's time to drop the pretense and get to the business at hand.",
 		"attacked": "You dare attack my sovereign realm? I don't believe even Nostradamus could have predicted this!",
-		"defeated": "I have lived long enough to know when I am defeated. Carry on.",
-		"introduction": "I am Catherine, the Queen Mother of France, and I welcome you to the realm. I do so look forward to learning all there is to know about you.",
+		"defeated": "Oh my, what an uncouth barbarian you are! I am positively disturbed by your lack of concern for the beauty of this earth. The world over will weep for this loss.",
+		"introduction": "I am Louis XIV, by the Grace of God, King of France and Navarre. By the heavens, what is this unrefined thing that walks into my court so heedlessly? You stand before the King of France and Navarre, the most beautiful, serene, and pious of all the Kings of this world. Oh, and humble.",
 		"neutralHello": "The queen mother has arrived.",
 		"hateHello": "oh, You really should start paying attention to what's going on around you.",
 		"tradeRequest": "I have sent you a trade delegation with all of the customary gifts: herbs, olives, various cheeses, and baguettes to eat them with, of course.",
