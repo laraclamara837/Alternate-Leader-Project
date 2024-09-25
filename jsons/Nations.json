@@ -24,7 +24,7 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "The Magnificence",
 		"uniques": ["[-66]% maintenance costs <for [Water] units>",
-			"[+20]% Golden Age length","[+15]% [Culture] [in all cities] <during a Golden age>","[+15]% [Science] [in all cities] <during a Golden age>","[All] [Military] Units Receive [+4]% More [Strength] When fighting <during a Golden age>"],
+			"[+20]% Golden Age length","[+15]% [Culture] [in all cities] <during a Golden age>","[+15]% [Science] [in all cities] <during a Golden age>","[-4]% Strength <for [All] units> <during a Golden Age>"],
 		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyarbakır","Izmir","Kayseri","Malatya",
 			"Mersin","Antalya","Zonguldak","Denizli","Ordu","Muğla","Eskişehir","Inebolu","Sinop","Adana","Artvin",
 			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarahisar",
@@ -66,11 +66,11 @@
 	},
 	{
 		"name": "England",
-		"leaderName": "(Golden Age) Elizabeth",
+		"leaderName": "(The Virgin Queen) Elizabeth",
 		"adjective": ["English"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
-		"personality": "(Golden Age) Elizabeth",
+		"personality": "(The Virgin Queen) Elizabeth",
 
                 "startIntroPart1": "Long live to Your Highness, Queen Elizabeth Gloriana, leader and protector of the glorious England! Through history, enduring many invasions, England strengthened its will, playing smartly with diplomacy, cunning, and military power, to eventually rose as one of the most dominant Empires the world has ever known. Their matchless navy, brilliant scientists and artists, and powerful merchants, have shaped the known world for centuries.",
                 "startIntroPart2": "Queen Elizabeth, will England cast once more its brightness upon all lands and seas of the world? Will your new empire shine through the ages of history?",
@@ -86,7 +86,7 @@
 		"innerColor": [203, 20, 22],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Drake's Legacy",
-		"uniques": ["[+4] Movement <for [Water] units>","Gain an extra spy <upon entering the [Renaissance era]>","Gain an extra spy <upon entering the [Industrial era]>","[+2 Culture, +2 Gold] from each Trade Route","[+40]% Gold from Great Merchant trade mission","All newly-trained [Ranged Water] units [in all cities] receive the [Bombardment II] promotion"],
+		"uniques": ["[+4] Movement <for [Water] units>","Gain an extra spy <upon entering the [Renaissance era]>","Gain an extra spy <upon entering the [Industrial era]>","[+4 Gold, +2 Culture] from each Trade Route","[+6 Gold, +3 Culture] from each Trade Route <after discovering [Navigation]>","[-80]% maintenance costs <for [Water] units>","All newly-trained [Ranged Water] units [in all cities] receive the [Bombardment II] promotion"],
 		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
 			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
 			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
@@ -95,11 +95,11 @@
 	},
 	{
 		"name": "Russia",
-		"leaderName": "(Golden Age) Catherine",
+		"leaderName": "(The Great) Catherine",
 		"adjective": ["Russian"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
-		"personality": "(Golden Age) Catherine",
+		"personality": "(The Great) Catherine",
 
 
         "startIntroPart1": "Hail to Imperial Majesty Catherine, Empress of all Russians. Living in the largest country in the world, from the Pacific Ocean in the east to the Baltic Sea in the west, your people endured wars, droughts, and many disasters, imbuing the Russian society with heroism and tenacity, and producing artists and scientists among the best in the world. Russia is a powerful empire which rightfully claims its place in the world concert of superpowers.",
@@ -140,7 +140,7 @@
 		"outerColor": [249, 249, 249],
 		"innerColor": [205, 0, 1],
 		"uniqueName": "The Last Best West",
-		"uniques": ["[+3 Food, +2 Production] from every [Tundra]","May Build [Farm] Improvement In [Tundra] tiles","Allied City-States provide [Food] equal to [+60]% of what they produce for themselves","Gain an extra spy <upon entering the [Industrial era]>"],
+		"uniques": ["[+3 Food, +2 Production, +1 Culture] from every [Tundra]","[+3 Food] from every [Farm] tiles","Allied City-States provide [Food] equal to [+60]% of what they produce for themselves","Gain an extra spy <upon entering the [Industrial era]>"],
 		"cities": ["Ottawa","Toronto","Montréal","Quebec City","Hamilton","Winnipeg","Halifax","Saint John","Vancouver","Victoria",
 			"Kingston","Brantford","Windsor","Charlottetown","Calgary","Sherbrooke","Guelph","Peterborough","Valleyfield","Edmonton",
 			"Trois-Rivières","Stratford","Saint Catharines","Waterloo","Saint Hyacinthe","Saint John","Dawson City","Belleville","Chatham",
@@ -172,7 +172,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Sun King",
-		"uniques": ["[+3 Culture, +3 Gold] from every [Wonder]","[+3 Culture] from every [Luxury resource]","[+3 Culture, +3 Happiness] from [{improved} {Luxury recourse}] tiles [in all cities]","[Great Artist] is earned [90]% faster <during We Love The King Day>","[100]% [Culture] [in capital] <during We Love The King Day>","[+3 Happiness] from all [Culture] buildings","Earn [80]% of killed [Military] unit's [Strength] as [Production]","May buy [Culture] buildings with [Gold] [in all cities]"],
+		"uniques": ["[+3 Culture, +3 Gold] from every [Wonder]","[+3 Culture] from every [Luxury resource]","[+3 Culture, +3 Happiness] from [{improved} {Luxury recourse}] tiles [in all cities]","[Great Artist] is earned [90]% faster <during We Love The King Day>","[100]% [Culture] [in capital] <during We Love The King Day>","[+3 Happiness] from all [Culture] buildings","[+50]% Strength <for [All] units> <when not at war>","[+90]% Strength <for [All] units> <when at war>","May buy [Culture] buildings with [Gold] [in all cities]"],
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
