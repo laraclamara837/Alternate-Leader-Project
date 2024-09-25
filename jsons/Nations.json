@@ -172,7 +172,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Sun King",
-		"uniques": ["[+3 Culture, +3 Gold] from every [Wonder]","[+3 Culture] from every [Luxury resource]","[Great Artist] is earned [90]% faster <during We Love The King Day>","[100]% [Culture] [in capital] <during We Love The King Day>","Earn [80]% of killed [Military] unit's [Strength] as [Happiness]","[+100]% [Happiness] from all [Culture] buildings [in all cities]","May buy [Culture] buildings with [Gold] [in all cities]"],
+		"uniques": ["[+3 Culture, +3 Gold] from every [Wonder]","[+3 Culture] from every [Luxury resource]","[Great Artist] is earned [90]% faster <during We Love The King Day>","[100]% [Culture] [in capital] <during We Love The King Day>","Earn [80]% of killed [Military] unit's [Strength] as [Production]","[ [+3 Happiness] from all [Culture] buildings [in all cities]","May buy [Culture] buildings with [Gold] [in all cities]"],
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
