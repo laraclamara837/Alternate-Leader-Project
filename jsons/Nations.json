@@ -24,7 +24,7 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "The Magnificence",
 		"uniques": ["[-66]% maintenance costs <for [Water] units>",
-			"[+20]% Golden Age length","[+15]% [Culture] [in all cities] <during a Golden age>","[+15]% [Science] [in all cities] <during a Golden age>","[-4]% Strength <for [All] units> <during a Golden Age>"],
+			"[+20]% Golden Age length","[+15]% [Culture] [in all cities] <during a Golden Age>","[+15]% [Science] [in all cities] <during a Golden Age>","[-4]% Strength <for [All] units> <during a Golden Age>"],
 		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyarbakır","Izmir","Kayseri","Malatya",
 			"Mersin","Antalya","Zonguldak","Denizli","Ordu","Muğla","Eskişehir","Inebolu","Sinop","Adana","Artvin",
 			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarahisar",
@@ -172,7 +172,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Sun King",
-		"uniques": ["[+6 Culture, +6 Gold] from every [Wonder]","[+3 Culture] from every [Luxury resource]","[+3 Culture, +3 Happiness] from [{improved} {Luxury recourse}] tiles [in all cities]","[Great Artist] is earned [90]% faster <during We Love The King Day>","[100]% [Culture] [in capital] <during We Love The King Day>","[+3 Happiness] from all [Culture] buildings","[+50]% Strength <for [All] units> <when not at war>","[+70]% Strength <for [All] units> <when at war>","May buy [Culture] buildings with [Gold] [in all cities]"],
+		"uniques": ["[+6 Culture, +6 Gold] from every [Wonder]","[+3 Culture] from every [Luxury resource]","[+3 Culture, +3 Happiness] from [{improved} {Luxury recourse}] tiles [in all cities]","[100]% [Culture] [in capital] <during We Love The King Day>","[+3 Happiness] from all [Culture] buildings","[+50]% Strength <for [All] units> <when not at war>","[+70]% Strength <for [All] units> <when at war>","May buy [Culture] buildings with [Gold] [in all cities]","[Great Artist] is earned [90]% faster <during We Love The King Day>"],
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
@@ -205,7 +205,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Solomonic Dynasty",
-		"uniques": ["[+50]% Strength if within [2] tiles of a [Hill]","May buy [Worker] units with [Faith] for [3] times their normal Production cost","May buy [Settler] units with [Faith] for [3] times their normal Production cost","[+2 Faith] [in capital] <after adopting [Mandate Of Heaven]>","[+2 Faith] from every [Holy site] <in [Hill] tiles>"],
+		"uniques": ["[+50]% Strength ","May buy [Worker] units with [Faith] for [3] times their normal Production cost","May buy [Settler] units with [Faith] for [3] times their normal Production cost","[+2 Faith] [in capital] <after adopting [Mandate Of Heaven]>","[+2 Faith] from every [Holy site] <in [Hill] tiles>"],
 		"cities": ["Addis Ababa","Harar","Adwa","Lalibela","Gondar","Axum","Dire Dawa","Bahir Dar","Adama",
 			"Mek'ele","Awasa","Jimma","Jijiga","Dessie","Debre Berhan","Shashamane","Debre Zeyit","Sodo","Hosaena",
 			"Nekemte","Asella","Dila","Adigrat","Debre Markos","Kombolcha","Debre Tabor","Sebeta",
