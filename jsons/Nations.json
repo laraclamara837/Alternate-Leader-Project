@@ -119,37 +119,6 @@
 		"spyNames": ["Benjamin", "Chloé", "Lucas", "Amelia", "James", "Logan", "Greyson", "Henry", "Natasha", "Elizabeth"],
 	},
 	{
-		"name": "France",
-		"leaderName": "Louis XIV",
-		"adjective": ["French"],
-		"startBias": ["River"],
-		"preferredVictoryType": "Cultural",
-		"personality": "Louis XIV",
-
-        "startIntroPart1": "Peoples the world over rejoice, for never before have they seen such a glorious and finely dressed monarch as you, O' Louis XIV, the Sun King of France. At five, you inherited the French throne - the most ancient and noble of the thrones of Europe - and for seventy-two years a modern state would be your design. Though a man of indulgence, your legal and cultural codes would form the basis of both Napoleon's Empire and the French Republics to come, and you would ultimately leave in your wake the most glorious century with which France has ever been blessed.",
-        "startIntroPart2": "Your great majesty, the Kingdom of France is bereft of the glory that had once adorned it, and your people grieve for ages past. Can you restore the refinement and power of the Bourbon throne? Can you, with guile and excellence, restore the treasured crown of the divine kings? Can you build a civilization that can stand the test of time?",
-
-        "declaringWar": "There is no avoiding war; it can only be postponed to the advantage of others.",
-		"attacked": "Impatience and lust for victory guarantees defeat.",
-		"defeated": "Oh my, what an uncouth barbarian you are! I am positively disturbed by your lack of concern for the beauty of this earth. The world over will weep for this loss.",
-		"introduction": "I am Louis XIV, by the Grace of God, King of France and Navarre. By the heavens, what is this unrefined thing that walks into my court so heedlessly? You stand before the King of France and Navarre, the most beautiful, serene, and pious of all the Kings of this world. Oh, and humble.",
-		"neutralHello": "The state welcome you.",
-		"hateHello": "Oh... Please be quick and don't get the floor of versailles dirty and stinks.",
-		"tradeRequest": "I shall lend you some of my best ballet dancers and paris royal opera finest trained musicians... Now what can you offer me?",
-
-        "outerColor": [249, 249, 249],
-        "innerColor": [134, 114, 2],
-
-		"favoredReligion": "Christianity",
-		"uniqueName": "The Sun King",
-		"uniques": ["[+6 Culture, +6 Gold] from every [Wonder]","[+3 Culture] from every [Luxury resource]","[+3 Culture, +3 Happiness] from [{improved} {Luxury recourse}] tiles [in all cities]","[100]% [Culture] [in capital] <during We Love The King Day>","[+3 Happiness] from all [Culture] buildings","[+50]% Strength <for [All] units> <when not at war>","[+70]% Strength <for [All] units> <when at war>","May buy [Culture] buildings with [Gold] [in all cities]","[Great Artist] is earned [90]% faster <during We Love The King Day>"],
-		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
-			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
-			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
-			"Le Havre","Lourdes","Cannes","Aix-En-Provence","La Rochelle","Bourges","Calais"],
-        "spyNames": ["Jeannette", "John", "Adeline", "Charles", "François", "Henriette", "Antoine", "Gabrielle", "André Marie", "Thérèse"]
-	},
-	{
 		"name": "Ethiopia",
 		"leaderName": "Zara Yaqob",
 		"adjective": ["ethiopian"],
@@ -160,7 +129,7 @@
         "startIntroPart1": "May God bless you, wise and righteous Emperor of Ethiopia, Zara yaqob. As The Greatest Ruler of Ethiopia, the world has ever seen and a spiritual leader to Your People the Ethiopian, your Determination to rule your people, Your love for your god and for them is shining endlessly as the lord is. You flourished the Ge,ez literature in your reign, and favorized Your God Amongst all Other Pagan Practice for years to come and diminished it, your great wisdom and Determination You Lead Ethiopia to Reach Its Height Of Golden Age. Always aiming towards Christ, and Improving your nation, You Make Every Ethiopian Proud to have you as The Emperor.",
         "startIntroPart2": "It is the Lord's will that guides your hand, plous Emperor Zara Yaqob. Make your empire a bastion for the faithful, building great churches across the land, and watch as your people's faith brings them to glory. Rule wisely, and let Ethiopia be a Mount of Light, shining as a beacon for all the world and stand the test of time.",
 
-        "declaringWar": "My patience is wearing thin. May the lord have mercy on me for about what I'm about to do to you.",
+        "declaringWar": "My patience is wearing thin. May the lord have mercy on me for what I'm going to do about you.",
 		"attacked": "May the lord stand with us and lead us through this harsh and tough war.",
 		"defeated": "God judgement is the only one that's mattered, may he have upon mercy on me and you.",
 		"introduction": "As a humble servant of the lord, I must introduce myself as zara yaqob, the emperor to the ethiopian.",
